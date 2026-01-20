@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,700;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link-menu{
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.button-Click{
+    background: gold;
+    border: 1px solid green;
+    border-radius: 6px;
+    width: 100px;
+    height: 38px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: blue;
+}
+img{
+    margin: 10px 0 0 10px;
+    display: inline-block;
+}
+
+div{
+    display: inline-block;
+    margin-left: 85px;
+    width: 493;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: black;
+}
+
+p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.link-button{
+   font-weight: 30;
+   font-size: 30px;
+   line-height: 0.5px;
+   letter-spacing: 2px;
+    color: blue;
+    cursor: pointer;
+}
